@@ -1,0 +1,13 @@
+body{
+    background: #313030;
+}
+
+.line{
+    text-decoration: line-through;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
